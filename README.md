@@ -4,6 +4,7 @@ This repository contains my work on the Kaggle competition **Binary Classificati
 The goal of the competition is to predict whether a client will subscribe to a term deposit based on demographic and financial features.
 
 ![Bank Binary Classification (Kaggle Competition)](https://raw.githubusercontent.com/ABUALHUSSEIN/bank-binary-classification-kaggle/refs/heads/main/header.png)
+
 ---
 
 ## 📂 Project Structure
@@ -26,7 +27,6 @@ I used **ydata-profiling** to generate an HTML profiling report for the dataset.
 
 👉 [Click here to view the report](https://abualhussein.github.io/bank-binary-classification-kaggle/)  
 
----
 
 ---
 
