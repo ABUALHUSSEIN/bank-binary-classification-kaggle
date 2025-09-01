@@ -2,7 +2,8 @@
 
 This repository contains my work on the Kaggle competition **Binary Classification with a Bank Dataset**.  
 The goal of the competition is to predict whether a client will subscribe to a term deposit based on demographic and financial features.
-![Bank Binary Classification (Kaggle Competition)](https://raw.githubusercontent.com/ABUALHUSSEIN/powerbi-banking-dashboard/refs/heads/main/screenshots/USER.png)
+
+![Bank Binary Classification (Kaggle Competition)](https://raw.githubusercontent.com/ABUALHUSSEIN/bank-binary-classification-kaggle/refs/heads/main/header.png)
 ---
 
 ## 📂 Project Structure
